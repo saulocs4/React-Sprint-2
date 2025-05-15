@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { BrowserRouter, Route, Routes} from 'react-router-dom'
 import Carrinho from '../components/Carrinho'
 import Layout from '../components/Layout.jsx'
